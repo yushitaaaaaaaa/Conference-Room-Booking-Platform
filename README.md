@@ -23,7 +23,7 @@ This application was successfully deployed for internal use and actively manages
 - **Calendar view** with modal for days with more than two conferences.
 - "Book Now" functionality from **available room cards**.
 
-### 🛂 Admin Side
+### 🛂 [Admin Side](#-admin-screens)
 
 - Admin **login/register** with captcha protection.
 - Dashboard with real-time metrics:
