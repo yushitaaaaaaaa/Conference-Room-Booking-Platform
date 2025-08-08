@@ -44,7 +44,7 @@ This application was successfully deployed for internal use and actively manages
 ## ⚙️ Tech Stack
 
 - **Frontend:** HTML, CSS, Bootstrap 5, JavaScript
-- **Backend:** PHP (Core), MySQL
+- **Backend:** ASP.NET MVC, C#, MySQL
 - **Libraries & Plugins:**
   - FullCalendar.js – calendar integration
   - Flatpickr – time/date pickers
